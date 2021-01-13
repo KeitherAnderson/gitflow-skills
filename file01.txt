@@ -1,2 +1,3 @@
 file01.txt contains some content
 more content has been added
+This file was changed by a hot fix
