@@ -1,1 +1,2 @@
 file03.txt contains some content
+This file was changed
